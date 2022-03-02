@@ -1,2 +1,3 @@
 print("Mani sauc Viktorija")
-print("")
+
+#izvadi savu vārdu
